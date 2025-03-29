@@ -105,7 +105,7 @@ pnpm run docker:up
 
 ## Project Structure
 
-```
+```txt
 src/
 ├── db/                 # Database configuration and schema
 │   ├── database.ts    # Database connection setup
